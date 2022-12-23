@@ -3,6 +3,7 @@
     font-family: 'Merriweather', serif;
     font-weight: 550;
     text-align: center;
+    color: #10A19D;
 }
 .contact-me-btn{
     border: 1px solid;
@@ -10,11 +11,11 @@
     border-radius: 8px;
     padding: 8px 12px;
     text-decoration: none;
-    color: #000000;
+    color: #10A19D;
 }
 .contact-me-btn:hover{
     background-color: #EFEFEF;
-    color: #000000;
+    color: #10A19D;
 }
 .contact-me-h2{
     font-size: 30px;
@@ -74,28 +75,12 @@
     font-family: 'Satisfy', cursive;
     font-weight: 600;
 }
-.navbar-brand: hover{
-    text-decoration: none;
-}
 .nav-item{
     font-size: 18px;
-    text-decoration: none;
-}
-.nav-link{
-    color: #EEEEEE;
-    text-decoration: none;
-}
-.nav-link:hover{
-    color: #EEEEEE;
-    text-decoration: none;
-    
-}
-.nav-item:hover{
-    color: #EFEFEF;
-    text-decoration: none;
 }
 .top{
     font-family: 'Ubuntu', sans-serif;
+    color: #10A19D;
 }
 .top1-1-data{
     width: 45%;
