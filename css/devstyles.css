@@ -76,6 +76,20 @@
 }
 .nav-item{
     font-size: 18px;
+    text-decoration: none;
+}
+.nav-link{
+    color: #EEEEEE;
+    text-decoration: none;
+}
+.nav-link:hover{
+    color: #EEEEEE;
+    text-decoration: none;
+    
+}
+.nav-item:hover{
+    color: #EFEFEF;
+    text-decoration: none;
 }
 .top{
     font-family: 'Ubuntu', sans-serif;
