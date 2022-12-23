@@ -68,6 +68,9 @@
     font-family: 'Satisfy', cursive;
     font-weight: 600;
 }
+.navbar-brand: hover{
+    text-decoration: none;
+}
 .nav-item{
     font-size: 18px;
     text-decoration: none;
