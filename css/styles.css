@@ -154,6 +154,9 @@
         display: block;
         width: 100%;
     }
+    .top1-2-items-data1{
+        padding: 0 20px;
+    }
     .middle1-1{
         display: block;
     }
@@ -162,6 +165,15 @@
     }
     .wrap{
         padding: 30px 40px;
+    }
+    .top1-2-list{
+        padding-left: 30px;
+    }
+}
+@media  (max-width :380px) {
+    
+    .wrap{
+        padding: 30px 20px;
     }
     .top1-2-list{
         padding-left: 30px;
