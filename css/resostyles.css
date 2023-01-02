@@ -85,3 +85,48 @@
     padding: 40px 80px;
     display: block;
 }
+@media  (max-width :740px) {
+    .top1-2{
+        display: block;
+    }
+    .top1-2-space1{
+        display: none;
+    }
+    .top1-2-space2{
+        display: none;
+    }
+    .top1-2-items{
+        display: block;
+        width: 100%;
+    }
+    .top1-2-items-data1{
+        padding: 0 20px;
+    }
+    .middle1-1{
+        display: block;
+    }
+    .middle1-1-1{
+        width: 100%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .wrap{
+        padding: 30px 40px;
+    }
+    .top1-2-list{
+        padding-left: 10px;
+    }
+    .top1-1-heading{
+        padding-left: 20px;
+        font-size: 50px;
+    }
+}
+@media  (max-width :380px) {
+    
+    .wrap{
+        padding: 30px 20px;
+    }
+    .top1-2-list{
+        padding-left: 10px;
+    }
+}
